@@ -1,0 +1,10 @@
+name: Michael and Steffi on tour
+author: Michael & Steffi
+description: 
+url: http://travelblog.mpollmeier.github.io
+safe: false
+lsi: false
+pygments: true
+markdown: redcarpet
+exclude: ['Gemfile', 'Gemfile.lock']
+permalink: pretty

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Long Bay
+date: 2012-02-11 05:49:15.000000000 +01:00
+categories:
+- new-zealand
+gallery:
+- /images/gallery/longbay/t-P1060814.jpg
+- /images/gallery/longbay/t-P1060816.jpg
+- /images/gallery/longbay/t-P1060817.jpg
+- /images/gallery/longbay/t-P1060819.jpg
+- /images/gallery/longbay/t-P1060828.jpg
+
+---
+A short trip to <a title="Long Bay" href="http://maps.google.com/maps?q=long+bay+auckland&amp;hl=en&amp;ll=-36.765292,174.843292&amp;spn=0.402101,0.795822&amp;sll=-36.870601,174.744842&amp;sspn=0.006274,0.012435&amp;hnear=Long+Bay,+Auckland,+New+Zealand&amp;t=m&amp;z=11">Long Bay</a> with the crew, including a nice picnic on the beach.
+

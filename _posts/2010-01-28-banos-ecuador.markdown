@@ -1,0 +1,11 @@
+---
+layout: post
+title: ! '&gt;Baños, Ecuador'
+author: Michael Pollmeier
+author_url: http://www.michaelpollmeier.com/
+date: 2010-01-28 20:55:00.000000000 +01:00
+categories:
+- Ecuador
+tags: []
+---
+&gt;An unserem letzten Nachmittag in Huaraz wollten wir uns in den nahegelegenen Thermalquellen nochmal Richtig aufwaermen und entspannen - das fiel aber leider etwas ins Wasser: sobald wir in der lauwarmen braunen (eisenhaltigen) Bruehe waren, fing es an zu Gewittern und wir mussten wieder raus. Nach einer Stunde Warten in der Umkleidekabine konnten wir dann wenigstens nochmal fuer 15 Minuten rein und der Tag hat sich doch noch zum Positiven gewendet: wir haben drei nette peruanische Geschwister kennen gelernt, die aus Huaraz kommen und in Lima studieren. Mit denen haben wir einen schoenen Abend verbracht und konnten allerlei ueber Peru und Deutschland austauschen...<br /><br />In den letzten Tagen haben wir einige Kilometer Richtung Norden gemacht. Zwei Nachtfahrten, unterbrochen von einem Strandtag noerdlich von Trujillo (Nordperu) und eine Tagesreise weiter sind wir mittlerweile in Ecuador. Ein paar Tage haben wir Zwischenstop in Cuenca gemacht, einem huebschen kolonialen Staedtchen. Von dort aus haben wir Vorgestern einen Canyoning-Trip gemacht. Fuer alle, die es nicht kennen: man folgt einem schmalen Canyon flussabwaerts, indem man schwimmt, watet, springt, rutscht und sich (teilweise durch Wasserfaelle) abseilt. Fotos haben wir allerdings nicht, unsere Kamera ist leider nicht wasserdicht :)<br /><br />Mittlerweile sind wir mitten in Ecuador in einem kleinen netten Wellness-Ort namens Baños angekommen. Baeder gibts hier dem Namen nach auch jede Menge, denn direkt nebenan ist ein aktiver Vulkan (dessen Aktivitaet gut ueberwacht wird), der einige heisse Quellen im Ort sprudeln laesst und staendig qualmt. Gleich testen wir mal eine solche aus und erholen uns von den letzten Reisetagen.<br /><br />Fotos haben wir diesmal leider nicht, da wir wie gesagt viel unterwegs waren. Morgen starten wir aber mal wieder eine kleine Tour - diesmal gehts fuer drei Tage in den Regenwald. Den Weg dahin werden wir auf Mountainbike und im Raftingboot zuruecklegen, ausserdem werden wir im Einbaum unterwegs sein... Details und Fotos folgen also!
