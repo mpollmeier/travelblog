@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A journey starts: Bhaktapur
+title: A journey starts - Bhaktapur
 categories:
 - nepal
 gallery:
