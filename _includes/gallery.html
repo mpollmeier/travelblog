@@ -1,7 +1,4 @@
-<div id="sliderFrame">
-  <div id="slider" style="background-repeat: no-repeat !important;">
-    {% for url in page.gallery %}
-      <img src="{{url}}" alt="" />
-    {% endfor %}
-  </div>
-</div>
+{% for url in page.gallery %}
+  <img src="{{url}}" alt="" />
+  <br></br>
+{% endfor %}
