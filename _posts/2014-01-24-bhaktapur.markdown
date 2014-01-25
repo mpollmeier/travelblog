@@ -5,7 +5,7 @@ categories:
 - nepal
 gallery:
 - /images/gallery/2014-nepal/13905739868350.jpg
-- /images/gallery/2014-nepal/13905739868350.jpg
+- /images/gallery/2014-nepal/13905740107201.jpg
 - /images/gallery/2014-nepal/13906667437580.jpg
 - /images/gallery/2014-nepal/13906667858781.jpg
 
