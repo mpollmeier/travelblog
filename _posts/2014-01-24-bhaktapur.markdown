@@ -5,7 +5,9 @@ categories:
 - nepal
 gallery:
 - /images/gallery/2014-nepal/13905739868350.jpg
-- /images/gallery/2014-nepal/13905740107201.jpg
+- /images/gallery/2014-nepal/13905739868350.jpg
+- /images/gallery/2014-nepal/13906667437580.jpg
+- /images/gallery/2014-nepal/13906667858781.jpg
 
 ---
 As many of you already know we've just started a long trip to Nepal. We've been here two years ago and loved it so much that we decided to come back, this time for a whole two months. 
